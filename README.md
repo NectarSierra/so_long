@@ -42,7 +42,7 @@ In the subject it was only asked to display text, I tought that it was ugly and 
 There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
 
 <p align="center">
-  <img src="readme_srcs/animation_00.png" alt="enemies">
+  <img src="readme_srcs/animation_00.gif" alt="enemies">
 </p>
 
 ## Compilation
