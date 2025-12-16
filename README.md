@@ -19,7 +19,9 @@ The player must carefully plan their movement to complete the map successfully.
 - Custom-made graphical assets
 - Smooth rendering using MiniLibX
 
-![Gameplay](readme_srcs/gameplay_01.png?raw=true)
+<p align="center">
+  <img src="readme_srcs/gameplay_01.png" alt="Hud">
+</p>
 
 ## Bonus Features
 
@@ -33,12 +35,15 @@ The pathfinding system is compiled and available **only in the bonus version**.
 To keep track of steps I made and HUD that show how many steps you made and keys there is still on the map.
 
 <p align="center">
-![Hud](readme_srcs/hud.png?raw=true)
+  <img src="readme_srcs/hud.png" alt="Hud">
 </p>
+
 
 There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
 
-![Enemies](readme_srcs/enemies.png?raw=true)
+<p align="center">
+  <img src="readme_srcs/enemies.png" alt="Hud">
+</p>
 
 ## Compilation
 
