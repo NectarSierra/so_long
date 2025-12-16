@@ -32,7 +32,9 @@ The pathfinding system is compiled and available **only in the bonus version**.
 
 To keep track of steps I made and HUD that show how many steps you made and keys there is still on the map.
 
+<p align="center">
 ![Hud](readme_srcs/hud.png?raw=true)
+</p>
 
 There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
 
