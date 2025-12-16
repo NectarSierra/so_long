@@ -20,7 +20,7 @@ The player must carefully plan their movement to complete the map successfully.
 - Smooth rendering using MiniLibX
 
 <p align="center">
-  <img src="readme_srcs/gameplay_01.png" alt="Hud">
+  <img src="readme_srcs/gameplay_01.png" alt="gameplay">
 </p>
 
 ## Bonus Features
@@ -42,7 +42,7 @@ To keep track of steps I made and HUD that show how many steps you made and keys
 There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
 
 <p align="center">
-  <img src="readme_srcs/enemies.png" alt="Hud">
+  <img src="readme_srcs/enemies.png" alt="enemies">
 </p>
 
 ## Compilation
