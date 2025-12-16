@@ -6,7 +6,7 @@ The project is built using **MiniLibX**, a lightweight graphical library provide
 ## Overview
 
 The goal of the game is to navigate through a maze, collect all collectibles, and reach the exit while avoiding obstacles.  
-The player must carefully plan their movement to complete the map successfully.
+The player must carefully plan their movements to complete the map successfully.
 
 <p align="center">
   <img src="readme_srcs/gameplay_00.png" alt="gameplay">
@@ -14,12 +14,12 @@ The player must carefully plan their movement to complete the map successfully.
 
 ## Features
 
-- 2D top-down maze gameplay
-- Keyboard-based player movement
-- Collectibles and exit system
-- Map validation and error handling
-- Custom-made graphical assets
-- Smooth rendering using MiniLibX
+- 2D top-down maze gameplay  
+- Keyboard-based player movement  
+- Collectibles and exit system  
+- Map validation and error handling  
+- Custom-made graphical assets  
+- Smooth rendering using MiniLibX  
 
 <p align="center">
   <img src="readme_srcs/gameplay_01.png" alt="gameplay">
@@ -28,8 +28,9 @@ The player must carefully plan their movement to complete the map successfully.
 ## Bonus Features
 
 ### Pathfinding
-In addition to the mandatory requirements, the project includes a **pathfinding system**. 
-Since I wanted to show to my pear the pathfinding systeme I've added this visualisation at the begining of the game.
+
+In addition to the mandatory requirements, the project includes a **pathfinding system**.  
+Since I wanted to show it to my peer, I added this visualization at the beginning of the game.  
 This feature displays the path used to validate map solvability and helps visualize how the player can reach all collectibles and the exit.
 
 <p align="center">
@@ -38,16 +39,16 @@ This feature displays the path used to validate map solvability and helps visual
 
 ### HUD
 
-To keep track of steps I made and HUD that show how many steps you made and keys there is still on the map.
-In the subject it was only asked to display text, I tought that it was ugly and made images instead.
+To keep track of the player’s progress, I implemented a **HUD** that shows both the number of steps taken and the remaining keys on the map.  
+The subject only asked for text display, but I decided to create a graphical HUD for a cleaner and more visually appealing interface.
 
 <p align="center">
-  <img src="readme_srcs/hud.png" alt="Hud">
+  <img src="readme_srcs/hud.png" alt="HUD">
 </p>
 
-### Sprite animations
+### Sprite Animations
 
-There is some frame animation, for example the door change sprite when opened, and the enemies keep track of you by still looking towards you.
+The game includes simple frame animations. For example, the door changes its sprite when opened, and enemies track the player by turning to face them.
 
 <p align="center">
   <img src="readme_srcs/animation_00.gif" alt="enemies">
