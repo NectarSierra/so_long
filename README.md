@@ -51,7 +51,7 @@ The subject only asked for text display, but I decided to create a graphical HUD
 The game includes simple frame animations. For example, the door changes its sprite when opened, and enemies track the player by turning to face them.
 
 <p align="center">
-  <img src="readme_srcs/animation_00.gif" alt="enemies">
+  <img src="readme_srcs/animation.gif" alt="enemies">
 </p>
 
 ## Compilation
