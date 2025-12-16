@@ -6,7 +6,7 @@ The project is built using **MiniLibX**, a lightweight graphical library provide
 ## Overview
 
 The goal of the game is to navigate through a maze, collect all collectibles, and reach the exit while avoiding obstacles.  
-The player must carefully plan their movements to complete the map successfully.
+The player must carefully plan their movements to complete the map in as few steps as possible.
 
 <p align="center">
   <img src="readme_srcs/gameplay_00.png" alt="gameplay">
