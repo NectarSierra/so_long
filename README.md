@@ -8,7 +8,7 @@ The project is built using **MiniLibX**, a lightweight graphical library provide
 The goal of the game is to navigate through a maze, collect all collectibles, and reach the exit while avoiding obstacles.  
 The player must carefully plan their movement to complete the map successfully.
 
-![Gameplay](readme_srcs/gameplay.png?raw=true)
+![Gameplay](readme_srcs/gameplay_00.png?raw=true)
 
 ## Features
 
@@ -19,6 +19,8 @@ The player must carefully plan their movement to complete the map successfully.
 - Custom-made graphical assets
 - Smooth rendering using MiniLibX
 
+![Gameplay](readme_srcs/gameplay_01.png?raw=true)
+
 ## Bonus Features
 
 In addition to the mandatory requirements, the project includes a **pathfinding visualization system**.  
@@ -27,6 +29,14 @@ This feature displays the path used to validate map solvability and helps visual
 ![Pathfinding](readme_srcs/pathfinding.png?raw=true)
 
 The pathfinding system is compiled and available **only in the bonus version**.
+
+To keep track of steps I made and HUD that show how many steps you made and keys there is still on the map.
+
+![Hud](readme_srcs/hud.png?raw=true)
+
+There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
+
+![Enemies](readme_srcs/enemies.png?raw=true)
 
 ## Compilation
 
