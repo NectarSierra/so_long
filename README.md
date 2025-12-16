@@ -25,11 +25,14 @@ The player must carefully plan their movement to complete the map successfully.
 
 ## Bonus Features
 
+### Pathfinding
 In addition to the mandatory requirements, the project includes a **pathfinding system**. 
 Since I wanted to show to my pear the pathfinding systeme I've added this visualisation at the begining of the game.
 This feature displays the path used to validate map solvability and helps visualize how the player can reach all collectibles and the exit.
 
 ![Pathfinding](readme_srcs/pathfinding.png?raw=true)
+
+### HUD
 
 To keep track of steps I made and HUD that show how many steps you made and keys there is still on the map.
 In the subject it was only asked to display text, I tought that it was ugly and made images instead.
@@ -38,6 +41,7 @@ In the subject it was only asked to display text, I tought that it was ugly and 
   <img src="readme_srcs/hud.png" alt="Hud">
 </p>
 
+### Sprite animations
 
 There is some frame animation, for example the door change sprite when opened, and the enemys keep track of you by still looking towards you.
 
